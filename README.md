@@ -1,5 +1,5 @@
-O PROGRAMADOR PRAGMÁTICO
-DE APRENDIZ A MESTRE
+
+O Programador Pragmático - De aprendiz a Mestre
 ========================
 
 Apresentação com um resumo de alguns pontos importantes do livro
