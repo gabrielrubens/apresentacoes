@@ -1,6 +1,7 @@
-O Programador Pragmático - De Aprendiz a Mestre
+Algumas apresentações
 ========================
 
-Apresentação com um resumo de alguns pontos importantes do livro
+O Programador Pragmático - De Aprendiz a Mestre: http://gabrielrubens.com.br/apresentacoes/o-programador-pragmatico
 
-Essa apresentação poderá ser vista em http://gabrielrubens.com.br/apresentacoes/o-programador-pragmatico
+
+Scrum - Baseado no Scrum Guide: http://gabrielrubens.com.br/apresentacoes/scrum-baseado-no-scrum-guide
